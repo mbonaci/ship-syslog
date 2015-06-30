@@ -1,0 +1,23 @@
+{
+  "name": "ship-syslog",
+  "version": "1.0.0",
+  "description": "UDP server that listens for syslog messages and forwards them to an arbitrary host, converting local to UTC time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbonaci/ship-syslog.git"
+  },
+  "keywords": [
+    "syslog",
+    "logging"
+  ],
+  "author": "Marko Bonaći <mbonaci@gmail.com> (https://mbonaci.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbonaci/ship-syslog/issues"
+  },
+  "homepage": "https://github.com/mbonaci/ship-syslog#readme"
+}
